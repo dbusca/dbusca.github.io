@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uy.com.antel.veramas.debug",
+    "package_name": "uy.com.antel.veramas.debuga",
     "sha256_cert_fingerprints":
     ["29:C9:ED:7E:6E:5D:FB:0A:E1:D9:F4:AA:00:09:D4:C4:85:0B:6B:7B:AB:F3:7D:7C:5F:EE:A1:33:CC:48:FE:2C"]
   }
